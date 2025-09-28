@@ -24,7 +24,7 @@ This project is a simple Android application built in **Android Studio** to prac
 
 Here is how the app looks when running:
 
-![https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/one.png]
+![App Screenshot]()
 
 ---
 
