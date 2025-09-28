@@ -20,8 +20,6 @@ This project is a simple Android application built in **Android Studio** to prac
 
 ---
 
-## 🖼️ Screenshot
-
 ## 🖼️ Screenshots Here is how the app looks when running: <p align="center"> <a href="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/one.png"> <img src="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/one.png" alt="App Screenshot 1" width="250" style="margin: 10px;"/> </a> <a href="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/two.png"> <img src="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/two.png" alt="App Screenshot 2" width="250" style="margin: 10px;"/> </a> <a href="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/four.png"> <img src="https://github.com/deepakdotdevs/UI-Components_2/blob/master/gradle/four.png" alt="App Screenshot 3" width="250" style="margin: 10px;"/> </a> </p>
 
 ---
