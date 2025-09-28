@@ -1,26 +1,27 @@
-````markdown
 # UI Components Demo (Android Studio)
 
 This project is a simple Android application built in **Android Studio** to practice and demonstrate the use of common UI components such as:
 
-- **ConstraintLayout** for positioning  
-- **TextView** to display text  
-- **ImageView** to show an image  
-- **TextInputLayout** & **TextInputEditText** for input fields  
-- **Button** with an **OnClickListener**  
-- **Toast messages** when a button is clicked  
+* **ConstraintLayout** for positioning
+* **TextView** to display text
+* **ImageView** to show an image
+* **TextInputLayout** & **TextInputEditText** for input fields
+* **Button** with an **OnClickListener**
+* **Toast messages** when a button is clicked
 
 ---
 
 ## 📱 Features
-- Displays a **Hello World!** message using `TextView`.
-- Shows an image using `ImageView`.
-- Provides a **text input field** with a hint and password toggle.
-- A **button** that, when clicked, displays a `Toast` message.
+
+* Displays a **Hello World!** message using `TextView`.
+* Shows an image using `ImageView`.
+* Provides a **text input field** with a hint and password toggle.
+* A **button** that, when clicked, displays a `Toast` message.
 
 ---
 
 ## 🖼️ Screenshot
+
 Here is how the app looks when running:
 
 ![App Screenshot](one.png)
@@ -30,6 +31,7 @@ Here is how the app looks when running:
 ## 🛠️ Code Overview
 
 ### **XML Layout** (`activity_main.xml`)
+
 Defines the UI components inside a `ConstraintLayout`.
 
 ```xml
@@ -51,7 +53,7 @@ Defines the UI components inside a `ConstraintLayout`.
     app:layout_constraintTop_toBottomOf="@+id/input"
     app:layout_constraintStart_toStartOf="@+id/textView"
     app:layout_constraintEnd_toEndOf="@+id/textView" />
-````
+```
 
 ### **MainActivity.kt**
 
@@ -112,6 +114,3 @@ app/
 ## 🧑‍💻 Author
 
 Project created as part of Android UI skill practice.
-
-```
-```
