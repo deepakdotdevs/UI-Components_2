@@ -109,5 +109,5 @@ app/
 
 ## 🧑‍💻 Author
 
-* By **Deepakdotdevs**
+* By **Deepak Jangid (Deepakdotdevs), **
 Project created as part of Android UI skill practice.
